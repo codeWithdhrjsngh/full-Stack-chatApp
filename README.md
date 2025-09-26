@@ -61,7 +61,7 @@ Create a `.env` file in the root directory with the following configuration:
 
 ```env
 # Database Configuration
-MONGODB_URI=mongodb://root:admin@mongo:27017/chatApp?authSource=admin&retryWrites=true&w=majority
+MONGODB_URI=mongodb://mongoadmin:secret@mongo:27017/dbname?authSource=admin
 
 # JWT Configuration
 JWT_SECRET=your_jwt_secret_key
@@ -225,6 +225,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 
