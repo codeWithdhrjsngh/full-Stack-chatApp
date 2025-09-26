@@ -17,7 +17,6 @@ Welcome to the **Full Stack Realtime Chat App** project, where we're building a 
 * [Running the Application](#running-the-application)
 * [Contributing](#contributing)
 * [Future Plans](#future-plans)
-* [License](#license)
 
 ## 📝 Introduction
 
@@ -208,6 +207,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 * [ ] **Kubernetes (K8s):** Add Kubernetes manifests for container orchestration to deploy the app on cloud platforms like AWS, GCP, or Azure.
 * [ ] **Feature Expansion:** Add more features like group chats, media sharing, and user status updates.
 * **Stay tuned for updates as we continue to improve and expand this project!**
+
 
 
 
