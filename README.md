@@ -209,15 +209,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 * [ ] **Feature Expansion:** Add more features like group chats, media sharing, and user status updates.
 * **Stay tuned for updates as we continue to improve and expand this project!**
 
----
 
-
-
-
-## 📜 License
-
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
